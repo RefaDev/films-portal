@@ -1,5 +1,15 @@
 .films-item-content {
    display: flex;
+	
+	
+}
+@media (max-width:650px) {
+	.films-item-content{
+		flex-wrap: wrap;
+		text-align: center;
+		align-items: center;
+		justify-content: center;
+	}
 }
 .films-item-content img {
    width: 229px;
@@ -23,11 +33,15 @@
 .top-name {
    font-weight: 700;
    font-size: 28px;
-   line-height: 100.68%;
    text-transform: uppercase;
    color: #e59c9c;
 }
 .top-title {
+}
+@media (max-width:650px) {
+	.top-title {
+		font-size: 15px;
+	}
 }
 .top-range {
    display: flex;
@@ -37,6 +51,11 @@
    line-height: 37px;
    text-transform: uppercase;
    color: #333333;
+}
+@media (max-width:650px) {
+	.top-range p {
+		font-size: 15px;
+	}
 }
 .top-range img {
    width: 43px;

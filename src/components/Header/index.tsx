@@ -20,14 +20,14 @@ const Header = () => {
       <div className='container'>
         <div className='header-content'>
           <div className='header-logo'>
-            <NavLink to='/main'>
+            <NavLink to='/'>
               <img src={logo} alt='logo' />
             </NavLink>
           </div>
           <nav className='header-nav'>
             <ul>
               <li>
-                <NavLink to='/main' activeClassName='linkActive'>
+                <NavLink to='/' activeClassName='linkActive'>
                   Главная
                 </NavLink>
               </li>
@@ -53,7 +53,7 @@ const Header = () => {
               <ul>
                 <li>
                   <NavLink
-                    to='/main'
+                    to='/'
                     activeClassName='linkActive'
                     onClick={closeBurger}
                   >

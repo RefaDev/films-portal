@@ -57,7 +57,7 @@ const AppContent = () => {
             <Route exact path={routeToFilmInfo()} component={FilmsItemPage} />
             <Redirect
               to={{
-                pathname: '/main',
+                pathname: '/',
               }}
             />
           </Switch>
