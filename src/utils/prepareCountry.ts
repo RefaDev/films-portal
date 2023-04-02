@@ -1,0 +1,3 @@
+const prepareCountry = (date: string | undefined) => (date ? date : 'н/д')
+
+export default prepareCountry
