@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/RefaDev/films-portal/static/css/main.06668216.css",
-    "main.js": "/RefaDev/films-portal/static/js/main.37e94b07.js",
+    "main.js": "/RefaDev/films-portal/static/js/main.807918c7.js",
     "static/media/Category-bg.png": "/RefaDev/films-portal/static/media/Category-bg.fc9a4f71b88f26bc9afb.png",
     "static/media/about-img.png": "/RefaDev/films-portal/static/media/about-img.a2b3f3a4f18055e40698.png",
     "static/media/mainInfoBlockItem.png": "/RefaDev/films-portal/static/media/mainInfoBlockItem.32182731a820c0d8f575.png",
     "index.html": "/RefaDev/films-portal/index.html",
     "static/media/arrow.svg": "/RefaDev/films-portal/static/media/arrow.d4f87bbc0fbda47fb3784cd0980e651e.svg",
     "main.06668216.css.map": "/RefaDev/films-portal/static/css/main.06668216.css.map",
-    "main.37e94b07.js.map": "/RefaDev/films-portal/static/js/main.37e94b07.js.map"
+    "main.807918c7.js.map": "/RefaDev/films-portal/static/js/main.807918c7.js.map"
   },
   "entrypoints": [
     "static/css/main.06668216.css",
-    "static/js/main.37e94b07.js"
+    "static/js/main.807918c7.js"
   ]
 }
