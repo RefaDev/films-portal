@@ -50,7 +50,7 @@ const AppContent = () => {
         <div className='container'>
 					<ScrollToTop/>
           <Switch>
-            <Route exact path='/main' component={Main} />
+            <Route exact path='/' component={Main} />
             <Route exact path='/categories' component={Categories} />
             <Route exact path='/about' component={About} />
             <Route exact path='/search' component={Search} />
